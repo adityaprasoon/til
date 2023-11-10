@@ -1,6 +1,7 @@
 # Creating an _aura_ following the cursor
 
 As the cursor moves make a semi-transparent aura (glow) around the pointer of the cursor.
+Idea taken from here - https://css-tricks.com/examples/MovingHighlight/
 
 ## Approach
  - Add an event handler to be triggered when the mouse moves.
