@@ -7,3 +7,4 @@
 
 ## CSS
 - [As the cursor moves make a semi-transparent aura (glow) around the pointer of the cursor.](css%2Fcursor-aura.md)
+- [Parent selector in CSS.](css%2Fparent-selector.md)
