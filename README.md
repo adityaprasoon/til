@@ -1,6 +1,6 @@
 # 💡 til (Today I learned)
 
-### Micro blogs about new things that I learn at work and play. New commits _almost_ daily. 
+### Micro blog about new things that I learn at work and play. Expect infrequent commits. 
 
 ## Nodejs
 - [The order of execution of `nextTick` queue and resolved `Promise` queue gets reversed depending on the module system used.](nodejs%2Feventloop-commonjs-vs-esm.md)
